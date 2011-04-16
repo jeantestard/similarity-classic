@@ -1,0 +1,8 @@
+Similarity classes to compare semantic proximity between two texts:
+
+cosinus
+jaccard
+Dice
+Sokal Snesth
+Sohal micheners
+Rogers Stanimoto
